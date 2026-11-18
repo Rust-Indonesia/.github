@@ -34,6 +34,7 @@ We support a safe and friendly environment and encourage everyone to follow the 
 ## Connect
 
 - GitHub: https://github.com/rust-indonesia
+- Community Documentation: https://github.com/Rust-Indonesia/community
 
 More community channels and activities will be announced soon.
 
